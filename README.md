@@ -1,4 +1,5 @@
-# Box Model Project UI->>
+# Box Model Project UI->>![image](https://github.com/namishagurunani/BoxModel/assets/126158413/67d0796a-77ea-4fcc-ab25-8d7196eef33b)
+
 # Sumbission Required:
 - Github Link:[click here](https://github.com/namishagurunani/BoxModel)
 - Hosted Link:[click here](https://namishagurunani.github.io/BoxModel/)
